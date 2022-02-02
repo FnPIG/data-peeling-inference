@@ -1,2 +1,1 @@
-# data-peeling-inference
-Nonparametric multivariate inference with consonant random sets.
+The code has moved to: https://github.com/FnPIG/data-depth-inference
